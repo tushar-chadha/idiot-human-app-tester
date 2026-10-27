@@ -1,0 +1,10 @@
+{
+  "name": "idiot-human-app-tester",
+  "version": "1.1.0",
+  "description": "Test your app as an extremely lazy, impatient first-time user: find confusing screens, abandonment risks and irritating bugs, then simplify and verify.",
+  "author": { "name": "tushar-chadha", "url": "https://github.com/tushar-chadha" },
+  "homepage": "https://github.com/tushar-chadha/idiot-human-app-tester",
+  "repository": "https://github.com/tushar-chadha/idiot-human-app-tester",
+  "license": "MIT",
+  "keywords": ["ux", "usability", "testing", "qa", "app-testing", "agent-skills"]
+}

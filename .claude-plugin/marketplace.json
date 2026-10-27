@@ -1,0 +1,20 @@
+{
+  "name": "idiot-human-app-tester",
+  "owner": { "name": "tushar-chadha", "url": "https://github.com/tushar-chadha" },
+  "metadata": {
+    "description": "The Idiot Human App Tester skill for Claude Code.",
+    "version": "1.1.0"
+  },
+  "plugins": [
+    {
+      "name": "idiot-human-app-tester",
+      "source": "./",
+      "description": "Test your app as an extremely lazy, impatient first-time user: find confusing screens, abandonment risks and irritating bugs, then simplify and verify.",
+      "version": "1.1.0",
+      "author": { "name": "tushar-chadha" },
+      "license": "MIT",
+      "keywords": ["ux", "usability", "testing", "qa"],
+      "category": "testing"
+    }
+  ]
+}
